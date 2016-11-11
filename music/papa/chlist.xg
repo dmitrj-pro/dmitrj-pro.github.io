@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<player showDisplay="yes" showPlaylist="yes" autoStart="no">
+    	<song path="http://call-of-dead.narod2.ru/music/papa/Papa_Roach_-_Between_Angels_And_Insects.mp3" title="Between_Angels_And_Insects"/>
+<song path="http://call-of-dead.narod2.ru/music/papa/06._Born_With_Nothing_Die_With_Ev.mp3" title="Born_With_Nothing_Die_With_Ev" />
+<song path="http://call-of-dead.narod2.ru/music/papa/papa_roach_-_broken_home_zaycev.net.mp3" title="broken_home" />
+<song path="http://call-of-dead.narod2.ru/music/papa/01._Burn.mp3" title="Burn" />
+<song path="http://call-of-dead.narod2.ru/music/papa/papa_roach_-_getting_away_with_murder_zaycev.net.mp3" title="getting_away_with_murder" />
+<song path="http://call-of-dead.narod2.ru/music/papa/03._Kick_In_The_Teeth.mp3" title="Kick_In_The_Teeth" />
+<song path="http://call-of-dead.narod2.ru/music/papa/papa_roach_-_last_resort_zaycev.net.mp3" title="last_resort" />
+<song path="http://call-of-dead.narod2.ru/music/papa/papa_roach_-_not_listening_zaycev.net.mp3" title="not_listening" />
+<song path="http://call-of-dead.narod2.ru/music/papa/Papa_Roach_-_Revenge.mp3" title="Revenge" />
+<song path="http://call-of-dead.narod2.ru/music/papa/08._.To_Be_Loved.mp3" title="To_Be_Loved" />
+<song path="http://call-of-dead.narod2.ru/music/papa/04._She_Loves_Me_Not.mp3" title="She_Loves_Me_Not" />
+</player>

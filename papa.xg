@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<player showDisplay="yes" showPlaylist="yes" autoStart="no">
+<song path="papa/alive.mp3" title="Alive" />
+<song path="papa/be.mp3" title="Be Free" />
+    	<song path="papa/Between_Angels_And_Insects.mp3" title="Between_Angels_And_Insects"/>
+
+<song path="papa/blood.mp3" title="Blood Brothers" />
+<song path="papa/Born_With_Nothing_Die_With_Ev.mp3" title="Born_With_Nothing_Die_With_Ev" />
+<song path="papa/broken_home_zaycev.net.mp3" title="broken_home" />
+<song path="papa/Burn.mp3" title="Burn" />
+
+<song path="papa/change.mp3" title="Change Or Die" />
+
+<song path="papa/done.mp3" title="Done With You" />
+
+<song path="papa/do.mp3" title="Do or Die" />
+<song path="papa/getting_away_with_murder.mp3" title="getting_away_with_murder" />
+<song path="papa/harder.mp3" title="Harder Than A Coffin Nail" />
+
+<song path="papa/hollywood.mp3" title="Hollywood Whore" />
+
+<song path="papa/go.mp3" title="Just Go" />
+
+<song path="papa/Kick_In_The_Teeth.mp3" title="Kick_In_The_Teeth" />
+<song path="papa/last_resort.mp3" title="last_resort" />
+<song path="papa/my-heart.mp3" title="my heart is a fist" />
+
+<song path="papa/never.mp3" title="Never Said it" />
+
+<song path="papa/not_listening.mp3" title="not_listening" />
+<song path="papa/one.mp3" title="One Track Mind" />
+
+<song path="papa/Revenge.mp3" title="Revenge" />
+<song path="papa/She_Loves_Me_Not.mp3" title="She_Loves_Me_Not" />
+
+<song path="papa/singular.mp3" title="Singular Indestructible Droid" />
+
+<song path="papa/snakes.mp3" title="Snakes" />
+
+<song path="papa/stop.mp3" title="Stop Looking Start Seeing" />
+
+<song path="papa/take.mp3" title="Take Me" />
+
+<song path="papa/enemy.mp3" title="The Enemy" />
+
+<song path="papa/time-and.mp3" title="Time And Time Again" />
+<song path="papa/To_Be_Loved.mp3" title="To_Be_Loved" />
+
+<song path="papa/tyranny.mp3" title="Tyranny of Normality" />
+
+<song path="papa/walking.mp3" title="Walking Thru Barbed Wire" />
+</player>
